@@ -54,10 +54,7 @@
 
 
 
-# operator=input("enter the operator name:")
-# num1=int(input("enter frist number:"))
-# num2=int(input("enter second number"))
-# if add=num1+num2
+
 
 
 
