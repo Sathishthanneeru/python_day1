@@ -139,7 +139,32 @@
 
 
 
+# warrior1=int(input("entre warrior1 attack power:"))
+# warrior2=int(input("entre warrior2 attack power:"))
+# warrior1_health=int(input("enter health1:"))
+# warrior2_health=int(input("enter health2:"))
+# if warrior1>warrior2:
+#     print("warrior1 wins")
+# elif warrior2>warrior1:
+#     print("warrior 2 is win")
+# elif warrior1==warrior2:
+#     if warrior1_health>warrior2_health:
+#         print("warrior 1 wins")
+#     elif warrior2_health>warrior1_health:
+#         print("warrior 2 wins")
+#     elif warrior1_health==warrior2_health:
+#         print("draw")
+# else:
+#     print("nothing")
 
+
+
+# current_balnce=int(input("entre the currentamount:"))
+# withdrwa_blance=int(input("enter with draw amount:"))
+# if withdrwa_blance%100==0 and withdrwa_blance<=current_balnce:
+#     print("transaction succesfully")
+# else:
+#     print("transaction fail")
 
 
 
