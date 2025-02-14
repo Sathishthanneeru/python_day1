@@ -149,5 +149,18 @@
 
 
 
-        
+# for i in range (0,11,2):
+#     print(i*5)
+
+
+# for i in range(0,3):
+#     while (i*2)>=3:
+#         print("fdghjk")
+
+
+# for clss in range(1,11):
+#     for roll in range(1,31):
+#         if clss==5 or roll<15:
+#                 break
+#         print(clss,roll)  
 
