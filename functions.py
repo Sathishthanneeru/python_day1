@@ -66,3 +66,37 @@
 
 
 
+# reversing a arra in list
+
+# list=[1,2,3,4,5]
+# list=list[::-1]
+# print(list)
+
+
+
+#  by using swapping and doing in effecient way
+# list1=[9,8,7,6,5,4]
+# low=0
+# high=len(list1)-1
+# while low<high:
+#     list1[low],list1[high]=list1[high],list1[low]
+#     low+=1
+#     high-=1
+# print(list1)
+
+
+# # def sum_of_digits(num1):
+# #     if num1==0:
+# #         return 0
+# #     rem =num1%10
+# #     return rem+sum_of_digits(num1//10)
+# # print(sum_of_digits(234567))
+
+
+
+
+# def fact(n):
+#     if n==1 or n==0:
+#         return 1
+#     return n*fact(n-1)
+# print(fact(8))
